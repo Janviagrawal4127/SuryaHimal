@@ -1,0 +1,26 @@
+village_id,village_name,district,state,elevation_m,latitude,longitude,solar_irradiance_kwh_m2_day,annual_cloud_days,slope_degrees,river_gradient_m_per_km,distance_to_stream_km,annual_precipitation_mm,population,households,poverty_rate,grid_access,daily_demand_kwh,survey_year,solar_viability_sv,hydro_potential_hp
+VIL001,Munsiyari,Pithoragarh,Uttarakhand,2350.0,30.0647,80.2381,4.8,130,20,12.5,0.8,850,1200,240,0.62,0,0.28,2024,2.904,11.8056
+VIL002,Milam,Pithoragarh,Uttarakhand,3430.0,30.321,80.4521,3.9,160,35,18.2,0.3,920,380,76,0.78,0,0.31,2024,1.7943,41.86
+VIL003,Gangotri,Uttarkashi,Uttarakhand,3048.0,30.9943,78.9397,4.2,150,25,22.0,0.2,980,620,124,0.71,0,0.29,2024,2.2422,71.8667
+VIL004,Harsil,Uttarkashi,Uttarakhand,2620.0,31.0234,78.7891,4.5,140,18,14.5,0.6,890,840,168,0.59,0,0.32,2024,2.6382,18.4357
+VIL005,Chamoli Ghati,Chamoli,Uttarakhand,2800.0,30.412,79.321,4.3,145,22,10.8,1.1,870,560,112,0.66,0,0.3,2024,2.4031,7.83
+VIL006,Badrinath Valley,Chamoli,Uttarakhand,3100.0,30.7433,79.4937,3.8,165,30,8.5,1.2999999999999998,940,290,58,0.82,0,0.25,2024,1.8032,4.9937
+VIL007,Niti,Chamoli,Uttarakhand,3600.0,30.8921,79.5678,3.5,175,38,25.0,0.4,1020,180,36,0.89,0,0.22,2024,1.4357,51.0
+VIL008,Tawaghat,Pithoragarh,Uttarakhand,1800.0,29.8234,80.1567,5.2,110,12,9.2,1.2999999999999998,780,1450,290,0.48,1,0.445,2024,3.5535,3.7768
+VIL009,Dharchula,Pithoragarh,Uttarakhand,1437.5,29.85,80.5333,5.5,95,8,6.5,1.2999999999999998,720,1790,358,0.35,1,0.445,2024,4.0289,1.8
+VIL010,Ralam,Pithoragarh,Uttarakhand,3700.0,30.2145,80.3456,3.4,180,42,30.2,0.2,1100,240,48,0.91,0,0.19,2024,1.2807,110.7333
+VIL011,Sangla,Kinnaur,Himachal Pradesh,2680.0,31.416,78.177,4.9,120,15,16.5,0.7,650,980,196,0.55,0,0.33,2024,3.177,13.4062
+VIL012,Chitkul,Kinnaur,Himachal Pradesh,3450.0,31.3524,78.4321,4.1,155,28,20.1,0.5,720,410,82,0.76,0,0.27,2024,2.0828,24.12
+VIL013,Moorang,Kinnaur,Himachal Pradesh,2420.0,31.5678,78.0234,5.0,125,14,13.2,0.9,690,760,152,0.52,0,0.35,2024,3.19,9.108
+VIL014,Nako,Kinnaur,Himachal Pradesh,3625.0,31.8912,78.6789,3.6,170,35,28.5,0.3,580,320,64,0.84,0,0.21,2024,1.5755,41.325
+VIL015,Spello,Lahaul-Spiti,Himachal Pradesh,4020.0,32.1234,78.0123,3.2,185,45,32.1,0.25,490,150,30,0.93,0,0.18,2024,1.1159,44.94
+VIL016,Kaza,Lahaul-Spiti,Himachal Pradesh,3800.0,32.2273,78.0723,3.3,182,43,29.8,0.3,510,680,136,0.88,0,0.2,2024,1.21,37.995
+VIL017,Losar,Lahaul-Spiti,Himachal Pradesh,4079.0,32.4567,77.789,3.1,190,48,35.2,0.2,475,210,42,0.95,0,0.17,2024,0.9945,55.7333
+VIL018,Kibber,Lahaul-Spiti,Himachal Pradesh,4205.0,32.4012,78.0098,3.0,195,50,38.0,0.15,450,120,24,0.96,0,0.15,2024,0.8981,68.4
+VIL019,Tabo,Lahaul-Spiti,Himachal Pradesh,3050.0,32.0987,78.3876,3.7,168,32,26.5,0.4,550,520,104,0.8,0,0.24,2024,1.6935,29.15
+VIL020,Keylong,Lahaul-Spiti,Himachal Pradesh,3114.0,32.5456,77.0234,3.9,160,28,22.8,0.6,580,1100,220,0.72,0,0.28,2024,1.934,18.8914
+VIL021,Udaipur,Lahaul-Spiti,Himachal Pradesh,2750.0,32.789,76.6789,4.4,135,20,18.5,0.7,620,890,178,0.6,0,0.31,2024,2.6054,14.3375
+VIL022,Sissu,Lahaul-Spiti,Himachal Pradesh,3090.0,32.6123,77.0567,3.8,162,30,24.0,0.5,590,670,134,0.74,0,0.26,2024,1.8303,23.6
+VIL023,Jispa,Lahaul-Spiti,Himachal Pradesh,3200.0,32.6789,77.2345,3.7,165,31,25.5,0.45,600,380,76,0.79,0,0.25,2024,1.7378,27.8182
+VIL024,Darcha,Lahaul-Spiti,Himachal Pradesh,3360.0,32.7234,77.4567,3.5,172,36,27.8,0.35,570,290,58,0.83,0,0.22,2024,1.4972,35.2133
+VIL025,Padum,Kargil,Ladakh,3657.0,33.4678,77.289,4.8,90,25,15.5,0.6,380,1790,358,0.65,0,0.3,2024,3.2776,8.4143

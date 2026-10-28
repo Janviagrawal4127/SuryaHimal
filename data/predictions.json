@@ -1,0 +1,44 @@
+{
+  "demand_forecast_2025_2030": [
+    {
+      "year": 2025,
+      "predicted_kwh_per_day": 4.044
+    },
+    {
+      "year": 2026,
+      "predicted_kwh_per_day": 4.044
+    },
+    {
+      "year": 2027,
+      "predicted_kwh_per_day": 4.044
+    },
+    {
+      "year": 2028,
+      "predicted_kwh_per_day": 4.044
+    },
+    {
+      "year": 2029,
+      "predicted_kwh_per_day": 4.044
+    },
+    {
+      "year": 2030,
+      "predicted_kwh_per_day": 4.044
+    }
+  ],
+  "ols_r2": 0.0,
+  "microgrid_classification": {
+    "Solar-First": {
+      "count": 2,
+      "percentage": 8.0
+    },
+    "Micro-Hydro": {
+      "count": 16,
+      "percentage": 64.0
+    },
+    "Hybrid": {
+      "count": 7,
+      "percentage": 28.0
+    }
+  },
+  "classifier_accuracy": 0.892
+}
